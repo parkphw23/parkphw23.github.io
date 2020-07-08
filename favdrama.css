@@ -1,0 +1,17 @@
+.better{
+    text-align: center;
+    background-color: lightblue;
+}
+.shin1 {
+    background-image: url('images/½Å¹Î¾Æ3.jpg');
+    background-repeat: repeat-x repeat-y;
+    background-attachment: fixed;
+    background-size: 50% 50%;
+}
+
+.kim {
+    background-image: url('images/±èÅÂ¸®3.jpg');
+    background-repeat: repeat-x repeat-y;
+    background-attachment: fixed;
+    background-size: 50% 50%;
+}
